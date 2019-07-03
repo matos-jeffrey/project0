@@ -1,0 +1,14 @@
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\bin\Debug\netcoreapp2.1\DAL.dll
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\PhoenixxKing\source\repos\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb
